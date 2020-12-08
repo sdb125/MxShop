@@ -1,0 +1,1 @@
+default_app_congfig='trade.apps.TradeConfig'
